@@ -1,0 +1,4 @@
+﻿  PR_LAB_1_Winsock.cpp
+D:\User\Документы\University\3 КУРС\PR\Лабораторные\PR_LAB_1_Winsock\PR_LAB_1_Winsock\PR_LAB_1_Winsock.cpp(7,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+D:\User\Документы\University\3 КУРС\PR\Лабораторные\PR_LAB_1_Winsock\PR_LAB_1_Winsock\PR_LAB_1_Winsock.cpp(135,16): warning C4129: /: неизвестная escape-последовательность
+  PR_LAB_1_Winsock.vcxproj -> D:\User\Документы\University\3 КУРС\PR\Лабораторные\PR_LAB_1_Winsock\Debug\PR_LAB_1_Winsock.exe

@@ -1,0 +1,6 @@
+﻿  PR_LAB_1_Winsock.cpp
+D:\User\Документы\University\3 КУРС\PR\Лабораторные\PR_LAB_1_Winsock\PR_LAB_1_Winsock\PR_LAB_1_Winsock.cpp(7,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+D:\User\Документы\University\3 КУРС\PR\Лабораторные\PR_LAB_1_Winsock\PR_LAB_1_Winsock\PR_LAB_1_Winsock.cpp(83,58): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+D:\User\Документы\University\3 КУРС\PR\Лабораторные\PR_LAB_1_Winsock\PR_LAB_1_Winsock\PR_LAB_1_Winsock.cpp(99,37): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\User\Документы\University\3 КУРС\PR\Лабораторные\PR_LAB_1_Winsock\PR_LAB_1_Winsock\PR_LAB_1_Winsock.cpp(135,16): warning C4129: /: неизвестная escape-последовательность
+  PR_LAB_1_Winsock.vcxproj -> D:\User\Документы\University\3 КУРС\PR\Лабораторные\PR_LAB_1_Winsock\x64\Debug\PR_LAB_1_Winsock.exe
