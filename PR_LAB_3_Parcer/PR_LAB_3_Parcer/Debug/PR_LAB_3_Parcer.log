@@ -1,0 +1,10 @@
+﻿  PR_LAB_3_Parcer.cpp
+D:\User\Документы\University\3 КУРС\PR\Лабораторные\PR_LAB_3_Parcer\PR_LAB_3_Parcer\PR_LAB_3_Parcer.cpp(7,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+D:\User\Документы\University\3 КУРС\PR\Лабораторные\PR_LAB_3_Parcer\PR_LAB_3_Parcer\PR_LAB_3_Parcer.cpp(116,24): warning C4129: ':': unrecognized character escape sequence
+D:\User\Документы\University\3 КУРС\PR\Лабораторные\PR_LAB_3_Parcer\PR_LAB_3_Parcer\PR_LAB_3_Parcer.cpp(160,17): warning C4129: '(': unrecognized character escape sequence
+D:\User\Документы\University\3 КУРС\PR\Лабораторные\PR_LAB_3_Parcer\PR_LAB_3_Parcer\PR_LAB_3_Parcer.cpp(160,17): warning C4129: ')': unrecognized character escape sequence
+D:\User\Документы\University\3 КУРС\PR\Лабораторные\PR_LAB_3_Parcer\PR_LAB_3_Parcer\PR_LAB_3_Parcer.cpp(160,17): warning C4129: '/': unrecognized character escape sequence
+D:\User\Документы\University\3 КУРС\PR\Лабораторные\PR_LAB_3_Parcer\PR_LAB_3_Parcer\PR_LAB_3_Parcer.cpp(160,17): warning C4129: '{': unrecognized character escape sequence
+D:\User\Документы\University\3 КУРС\PR\Лабораторные\PR_LAB_3_Parcer\PR_LAB_3_Parcer\PR_LAB_3_Parcer.cpp(160,17): warning C4129: '}': unrecognized character escape sequence
+D:\User\Документы\University\3 КУРС\PR\Лабораторные\PR_LAB_3_Parcer\PR_LAB_3_Parcer\PR_LAB_3_Parcer.cpp(132,8): warning C4101: 'fp': unreferenced local variable
+  PR_LAB_3_Parcer.vcxproj -> D:\User\Документы\University\3 КУРС\PR\Лабораторные\PR_LAB_3_Parcer\Debug\PR_LAB_3_Parcer.exe
