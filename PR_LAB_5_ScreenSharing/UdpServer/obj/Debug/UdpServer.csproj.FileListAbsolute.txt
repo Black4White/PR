@@ -1,0 +1,10 @@
+D:\User\Рабочий стол\123\UdpServer\bin\Debug\UdpServer.exe.config
+D:\User\Рабочий стол\123\UdpServer\bin\Debug\UdpServer.exe
+D:\User\Рабочий стол\123\UdpServer\bin\Debug\UdpServer.pdb
+D:\User\Рабочий стол\123\UdpServer\obj\Debug\UdpServer.csprojAssemblyReference.cache
+D:\User\Рабочий стол\123\UdpServer\obj\Debug\UdpServer.Form1.resources
+D:\User\Рабочий стол\123\UdpServer\obj\Debug\UdpServer.Properties.Resources.resources
+D:\User\Рабочий стол\123\UdpServer\obj\Debug\UdpServer.csproj.GenerateResource.cache
+D:\User\Рабочий стол\123\UdpServer\obj\Debug\UdpServer.csproj.CoreCompileInputs.cache
+D:\User\Рабочий стол\123\UdpServer\obj\Debug\UdpServer.exe
+D:\User\Рабочий стол\123\UdpServer\obj\Debug\UdpServer.pdb
